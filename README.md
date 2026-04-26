@@ -41,30 +41,6 @@ Data Analysis Techniques
 
 <img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/fd3d7eb2-011b-4f71-ae79-d159548d2715" />
 
-
-🔹 **Basic Analysis**
-
-- Total number of orders placed
-
-- Total revenue generated
-  
-- Highest-priced pizza
-  
-- Most common pizza size ordered
-  
-- Top 5 most ordered pizza types
-
-🔹 **Intermediate Analysis**
-
-- Total quantity of each pizza category ordered
-  
-- Distribution of orders by hour
-  
-- Category-wise pizza distribution
-  
-- Average pizzas ordered per day
-  
-- Top 3 pizzas based on revenue
   
 🧠 **Key SQL Concepts Used**
 
